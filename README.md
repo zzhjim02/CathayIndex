@@ -47,7 +47,7 @@
 
 | 下载方式 | 说明 |
 |:-------|:-----|
-| 📥 百度网盘（密码 2026） | `<待填：百度网盘分享链接>` |
+| 📥 百度网盘（密码 2026） | [CathayIndex 本地文件库索引工具 1.0.0](https://pan.baidu.com/s/1pRtTIOLg2aOm9CRhcxJ_Rg?pwd=2026)（含源码与便携运行库） |
 | 🐙 GitHub Releases | [CathayIndex v1.0.0](https://github.com/zzhjim02/CathayIndex/releases/tag/v1.0.0)（Assets 里直接下 `CathayIndex.exe`） |
 | 💻 源码 / 便携版 | 本仓库源码：`python gui.py` 直接跑；或用 `runtime\` + `建库.bat`（自带 Python，约 40 MB） |
 
