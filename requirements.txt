@@ -1,0 +1,4 @@
+# CathayIndex · 本地文件库索引工具
+# 本工具只用 Python 标准库（tkinter / sqlite3），无需安装第三方包。
+# 可选：装了 tkinterdnd2 就能把文件夹直接拖进窗口。
+# tkinterdnd2>=0.3.0
