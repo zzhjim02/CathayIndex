@@ -1,3 +1,14 @@
+> [!WARNING]
+> **本仓库已停止更新（归档保存）。**
+>
+> CathayIndex 的建库能力已并入 **[CathayShelf](https://github.com/zzhjim02/CathayShelf)**；
+> 检索用的索引管理则由 **[CathayHub](https://github.com/zzhjim02/CathayHub)** 的
+> 「CathayHub Indexer」接手（新建索引 / 引用已有索引 / 增量更新 / 重建 / 索引组 / 定时更新）。
+>
+> **请改用上面这两个。** 本仓库保留为历史存档。
+
+---
+
 <div align="center">
 
 # 🔎 CathayIndex
